@@ -6,7 +6,7 @@ Bricker is a 2D platformer game developed in Java, following OOP principles, wit
 
 <img src="GameImages/Im1.jpg" alt="Description of Image" width="600" height="300">
 <img src="GameImages/Im2.jpg" alt="Description of Image" width="600" height="300">
-<img src="GameImages/Im3.jpg" alt="Description of Image" width="600" height="300">
+
 
 
 ## Usage
